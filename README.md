@@ -1,0 +1,2 @@
+# AritmetikIslemOnceligi
+Aritmetik İşlemler Pratiği
